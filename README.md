@@ -91,11 +91,9 @@
   
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" align="center" height="60" width="" />
+<a href="shashwatstudy1729@gmail.com"><img src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png" align="center" height="60" width="" /></a>
 </div>  
   
-
-<div align="center">shashwatstudy1729@gmail.com</div>  
   
 
 <br/> 
