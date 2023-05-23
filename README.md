@@ -3,7 +3,7 @@
 </div>  
   
 
-### *<div align="center">Hey there! I'm Shashwat</div>*  
+### *<div align="center"><h2>I'm Shashwat</h2></div>*  
   
 
 <div align="center">
