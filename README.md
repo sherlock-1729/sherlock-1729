@@ -75,7 +75,7 @@
 
 <div float="left">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" align="center" height="" width="" />
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" align="right" height="110" width="" />
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" align="right" height="100" width="" />
 </div>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=sbeor25ut2uvrt1gxiu0x7up5&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div> 
