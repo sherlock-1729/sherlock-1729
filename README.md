@@ -59,13 +59,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" align="left" height="70" width="70" />  
   
 
-## [Instagram](https://www.instagram.com/shashwat1729/) <br/> 
+## [Instagram](https://www.instagram.com/shashwat1729/) <br/> <br/>
   
 
 <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" align="left" height="70" width="70" />  
   
 
-## [Discord](https://discord.gg/tQFBSvhpHw) <br/>
+## [Discord](https://discord.gg/tQFBSvhpHw) <br/> <br/>
   
 
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" align="left" height="70" width="70" />  
