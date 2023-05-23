@@ -76,9 +76,9 @@
 
 
 ## Github Stats 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sherlock-1729&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sherlock-1729&theme=dark&hide_border=false" align="center" /></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherlock-1729&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sherlock-1729&theme=dark&hide_border=false&include_all_commits=true&count_private=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sherlock-1729&theme=dark&hide_border=false" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherlock-1729&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>  
 
 
 
