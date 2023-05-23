@@ -76,8 +76,18 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=sbeor25ut2uvrt1gxiu0x7up5&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
+  
 
-[![](https://visitcount.itsvg.in/api?id=sherlock-1729&icon=2&color=12)](https://visitcount.itsvg.in)"
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" align="center" height="60" width="" />
+</div>  
+  
 
-<br/>  
+<div align="center">shashwatvarenya@gmail.com</div>  
+  
+
+<br/> 
 
