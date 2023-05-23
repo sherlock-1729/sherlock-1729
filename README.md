@@ -77,9 +77,7 @@
 
 <br/>  
 
-<div align="center">
-<img src="[![](https://visitcount.itsvg.in/api?id=sherlock-1729&icon=2&color=12)](https://visitcount.itsvg.in)" align="center" />
-</div>
+[![](https://visitcount.itsvg.in/api?id=sherlock-1729&icon=2&color=12)](https://visitcount.itsvg.in)"
 
 <br/>  
 
