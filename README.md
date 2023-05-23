@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" align="center" style="width: 100%" />
-</div>   
+<img src="https://openseauserdata.com/files/5f085809f2b711643e4eb4974cc03c0e.gif" align="center" style="width: 100%" />
+</div>
   
 
 ### *<div align="center"><h3>I'm Shashwat</h3></div>*  
