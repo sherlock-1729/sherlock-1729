@@ -72,7 +72,11 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" align="center" height="50" width="" />
 </div>  
-  
+
+<div align="center">
+<img src="https://camo.githubusercontent.com/1686d6c857ddd6e94bc8454118e39d00afe8940c43ed478bcfce8b17725f76da/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6f70656e2d736f757263652e737667" align="center" height="" width="" />
+</div>  
+
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=sbeor25ut2uvrt1gxiu0x7up5&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  
