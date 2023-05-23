@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://camo.githubusercontent.com/160859e9b65c27cac067d610c4cabed1e5ea256e1f25f39454f302b7c577dbb4/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3832382f302a4647443642557a7a5a7331564a4c75592e676966" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif />
 </div>  
   
 
-### *<div align="center"><h2>I'm Shashwat</h2></div>*  
+### *<div align="center"><h3>I'm Shashwat</h3></div>*  
   
 
 <div align="center">
