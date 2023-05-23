@@ -51,22 +51,22 @@
 
 
 ## Connect with me  
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" align="left" height="40" width="40" />  
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" align="left" height="60" width="60" />  
   
 
-#### [Instagram](https://www.instagram.com/shashwat1729/)  
+### [Instagram](https://www.instagram.com/shashwat1729/)  <br/>
   
 
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" align="left" height="40" width="40" />  
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" align="left" height="60" width="60" />  
   
 
-#### [Discord](https://discord.gg/tQFBSvhpHw)  
+### [Discord](https://discord.gg/tQFBSvhpHw)   <br/>
   
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" align="left" height="40" width="40" />  
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" align="left" height="60" width="60" />  
   
 
-#### [LinkedIn](https://www.linkedin.com/in/shashwat-varenya-236a61229/)  
+### [LinkedIn](https://www.linkedin.com/in/shashwat-varenya-236a61229/)  
   
 
 <br/>  
@@ -102,3 +102,6 @@
 
 
 <br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
