@@ -73,9 +73,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sherlock-1729&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherlock-1729&hide_border=true&layout=compact" align="center" /></div>  
+![](https://github-readme-stats.vercel.app/api?username=sherlock-1729&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sherlock-1729&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sherlock-1729&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>  
 
@@ -102,6 +102,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
