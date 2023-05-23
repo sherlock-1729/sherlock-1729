@@ -52,6 +52,14 @@
 
 <br/>  
 
+# 📊 GitHub Stats:
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sherlock-1729&theme=dark&hide_border=false&include_all_commits=true&count_private=true" align="center" /></div>  <br/>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sherlock-1729&theme=dark&hide_border=false" align="center" /></div>  <br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherlock-1729&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>  
+
+
+
+<br/>  
 
 ## 🌐 Socials:
 <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" align="left" height="60" width="60" />  
@@ -75,14 +83,6 @@
 <br/>  
 
 
-# 📊 GitHub Stats:
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sherlock-1729&theme=dark&hide_border=false&include_all_commits=true&count_private=true" align="center" /></div>  <br/>
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sherlock-1729&theme=dark&hide_border=false" align="center" /></div>  <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherlock-1729&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>  
-
-
-
-<br/>  
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="center" height="10" width="" />
