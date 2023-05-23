@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" align="center" height="30" width="" />
 </div>  
   
-
+# 💫 About Me:
 - 🔭 I’m currently working on Web 3.0 Projects  
   
 
@@ -31,7 +31,7 @@
 <br/>  
 
 
-## My Skill Set  
+# 💻 Tech Stack:
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -53,7 +53,7 @@
 <br/>  
 
 
-## Connect with me  
+## 🌐 Socials:
 <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" align="left" height="60" width="60" />  
   
 
@@ -75,9 +75,9 @@
 <br/>  
 
 
-## Github Stats 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sherlock-1729&theme=dark&hide_border=false&include_all_commits=true&count_private=true" align="center" /></div>  
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sherlock-1729&theme=dark&hide_border=false" align="center" /></div>  
+# 📊 GitHub Stats:
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sherlock-1729&theme=dark&hide_border=false&include_all_commits=true&count_private=true" align="center" /></div>  <br/>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sherlock-1729&theme=dark&hide_border=false" align="center" /></div>  <br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherlock-1729&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>  
 
 
