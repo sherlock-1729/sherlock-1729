@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://openseauserdata.com/files/5f085809f2b711643e4eb4974cc03c0e.gif" align="center" style="width: 100%" />
+<img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" align="center" style="width: 100%" />
 </div>
   
 
-### *<div align="center"><h3>I'm Shashwat</h3></div>*  
+### *<div align="center"><h3>I'm Shashwat</h3></div>  
   
 
 <div align="center">
