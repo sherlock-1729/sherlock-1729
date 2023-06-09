@@ -19,10 +19,10 @@
 - 🔭 I’m currently working on Web 3.0 Projects  
   
 
-- 🌱 I’m currently learning Web Development & DSA  
+- 🌱 I’m currently learning Web Development & Django  
   
 
-- ❓ Ask me about Black Holes  
+- ❓ Ask me about Black Holes
   
 
 - ⚡ Fun fact: I use tabs over spaces  
