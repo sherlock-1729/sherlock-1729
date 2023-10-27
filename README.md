@@ -16,10 +16,10 @@
 </div>  
   
 # 💫 About Me:
-- 🔭 I’m currently working on Web 3.0 Projects  
+- 🔭 I’m currently working on Machine Learning Projects 
   
 
-- 🌱 I’m currently learning Web Development & Django  
+- 🌱 I’m currently learning Artificial Intelligence and Deep Learning 
   
 
 - ❓ Ask me about Black Holes
